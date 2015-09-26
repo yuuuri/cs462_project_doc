@@ -1,1 +1,1 @@
-# cs462_project_doc
+CS462 Group Project "Feedback" App documnent
